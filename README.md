@@ -1,7 +1,7 @@
 # Hourly_Energy_Consumption_Forecasting
 ## Time Series Analysis & Forecasting
 
-In this repository we are using machine learning alogrithm XGBoost for the forecasting of energy cosumption. 
+In this repository, we are utilizing the XGBoost machine learning algorithm for the time series forecasting of energy consumption.
 
 ![](https://res.cloudinary.com/monday-blogs/w_768,h_384,c_fit/fl_lossy,f_auto,q_auto/wp-blog/2021/05/sales-forecasting-software.jpg)
 
