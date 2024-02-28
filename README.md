@@ -7,8 +7,8 @@ In this repository, we are utilizing the XGBoost machine learning algorithm for 
 
 The dataset used for this analysis contains hourly energy consumption data scraped from PJM Interconnection's website. A copy of the dataset can be found here:  https://www.kaggle.com/robikscube/hourly-energy-consumption
 
-### Tbale of Contents
-* Data
+### Tale of Contents
+* [Data]
 * Train/Test Split
 * Create Time Series Feature
 * Create XGBoost Model
