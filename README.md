@@ -9,9 +9,9 @@ The dataset used for this analysis contains hourly energy consumption data scrap
 
 ### Tale of Contents
 - [Data](#Data)
-- [Train/Test Split](#Train/Test Split)
-- [Create Time Series Feature](#Create Time Series Feature)
-- [Create XGBoost Model](#Create XGBoost Model)
-- [Forecast on Test dataset](#Create XGBoost Model)
+- [Train/Test Split](#Train/Test-Split)
+- [Create Time Series Feature](#Create-Time-Series-Feature)
+- [Create XGBoost Model](#Create-XGBoost-Model)
+- [Forecast on Test dataset](#Create-XGBoost-Model)
 
 
